@@ -1,7 +1,7 @@
 # Fruit Ninga
 
 
-*JAVA Project Game is considered an aplication on OOP Project
+<b>JAVA Project Game is considered an aplication on OOP Project</b>
 
 this project is aplication of:
 
