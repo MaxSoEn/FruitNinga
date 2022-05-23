@@ -55,7 +55,7 @@ public class StartGame{
     
     private final String PAUSE_BACKGROUND_IMAGE = "Model/resources/panel.png";
 
-    private final String BACKGROUND_IMAGE = "Home/resources/back.png";
+    private final String BACKGROUND_IMAGE = "Home/resources/back.jpeg";
     private final String FONT_PATH = "src/Model/resources/kenvector_future.ttf";
     public boolean isGameStopped = false;
 
